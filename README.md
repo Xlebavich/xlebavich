@@ -16,7 +16,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  
 </a>  
 <br><br>
-favorite game: <a href="https://www.minecraft.net/ru-ru">Minecraft<br><br><img src="https://github.com/Xlebavich/xlebavich/minecraft.jpg?raw=true" width="20%"></a></p>
+favorite game: <a href="https://www.minecraft.net/ru-ru">Minecraft<br><br><img src="https://github.com/Xlebavich/xlebavich/blob/main/minecraft.jpg?raw=true" width="20%"></a></p>
 
 
 <p align="center">
