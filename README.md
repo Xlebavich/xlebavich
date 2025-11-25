@@ -22,15 +22,16 @@ favorite game: <a href="https://www.minecraft.net/ru-ru">Minecraft<br><br><img s
   <summary>support</summary>
 <p align="center">  
   
-  | Platform   | Link | Address |
+  | Platform   | Link | Username |
   |------------|------|---------|
-  | CashApp    | <a href="https://cash.app/$iiWasHere"><img src="https://img.shields.io/badge/CashApp-$iiWasHere-green?style=for-the-badge&logo=cashapp"></a> | $iiWasHere |
-  | Modrinth   | <a href="https://modrinth.com/user/PopovichXS"><img src="https://img.shields.io/badge/Modrinth-PopovichXS-1BD96A?style=for-the-badge&logo=modrinth"></a> | modrinth.com/user/PopovichXS |
+  | DonationAlerts | <a href="https://dalink.to/xlebavich333"><img src="https://img.shields.io/badge/DonationAlerts-Donate-FF8C00?style=for-the-badge&logo=donationalerts"></a> | xlebavich |
+  | Modrinth   | <a href="https://modrinth.com/user/PopovichXS"><img src="https://img.shields.io/badge/Modrinth-PopovichXS-1BD96A?style=for-the-badge&logo=modrinth"></a> | PopovichXS |
   | Discord    | <a href="https://discord.com/users/0"><img src="https://img.shields.io/badge/Discord-popovich0261-5865F2?style=for-the-badge&logo=discord"></a> | popovich0261 |
-  | Steam      | <a href="https://steamcommunity.com/id/xlebavich/"><img src="https://img.shields.io/badge/Steam-xlebavich-1b2838?style=for-the-badge&logo=steam"></a> | steamcommunity.com/id/xlebavich |
+  | Steam      | <a href="https://steamcommunity.com/id/xlebavich/"><img src="https://img.shields.io/badge/Steam-xlebavich-1b2838?style=for-the-badge&logo=steam"></a> | xlebavich |
   
 </p>
 </details>
+details>
                      
 
 <p align="center">
