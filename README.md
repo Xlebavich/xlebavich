@@ -20,23 +20,8 @@ favorite game: <a href="https://www.minecraft.net/ru-ru">Minecraft<br><br><img s
 
 
 <p align="center">
-  <img src="hyper.gif" height="100">
+  <img src="https://github.com/Xlebavich/xlebavich/blob/main/minecraft.jpg?raw=true" height="100">
   <img src="fennec.gif" height="100">
-  <img src="pat.gif" alt="mee" height="100">
-  <img src="doggy.gif" height="100">
-  <img src="sleepy.gif" alt="sleepy boy" height="100">
-  <img src="silly.gif" alt="silly" height="100">
-  <img src="dance.gif" height="100">
-  <img src="eat.gif" height="100">
-  <img src="hold.gif" height="100">
-  <img src="milk.gif" height="100">
-  <img src="otter.gif" height="100">
-  <img src="airbiscuits.gif" height="100">
-  <img src="uhh.gif" height="100">
-  <img src="vro.gif" height="100">
-  <img src="tonguecat.gif" height="100">
-  <img src="dryer.gif" height="100">
-  <img src="dink.gif" height="100">
-  <img src="Hotfrickendog.gif" height="100">
+  <img src="pat.gif" height="100">
 </p>
 
