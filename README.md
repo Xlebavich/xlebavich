@@ -17,7 +17,7 @@
 </a>  
 <br><br>
 favorite game: <a href="https://www.minecraft.net/ru-ru">Minecraft<br><br><img src="https://github.com/Xlebavich/xlebavich/blob/main/minecraft.jpg?raw=true" width="40%"></a></p>
-
+-----
 
 <p align="center">
   <img src="https://github.com/Xlebavich/xlebavich/blob/main/cat1.gif" height="100">
