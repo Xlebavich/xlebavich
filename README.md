@@ -43,7 +43,7 @@
 
   | Platform   | Link | Username |
   |------------|------|----------|
-  | DonationAlerts | <a href="https://dalink.to/xlebavich333"><img src="https://img.shields.io/badge/DonationAlerts-Donate-FF8C00?style=for-the-badge&logo=donationalerts"></a> | xlebavich |
+  | DonationAlerts | <a href="https://dalink.to/xlebavich333"><img src="https://img.shields.io/badge/DonationAlerts-Donate-FF8C00?style=for-the-badge&logo=donationalerts"></a> | xlebavich333 |
   | Modrinth   | <a href="https://modrinth.com/user/PopovichXS"><img src="https://img.shields.io/badge/Modrinth-PopovichXS-1BD96A?style=for-the-badge&logo=modrinth"></a> | PopovichXS |
   | Discord    | <a href="https://discord.com/users/0"><img src="https://img.shields.io/badge/Discord-popovich0261-5865F2?style=for-the-badge&logo=discord"></a> | popovich0261 |
   | Steam      | <a href="https://steamcommunity.com/id/xlebavich/"><img src="https://img.shields.io/badge/Steam-xlebavich-1b2838?style=for-the-badge&logo=steam"></a> | xlebavich |
