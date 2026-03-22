@@ -25,10 +25,6 @@
   </a>
 </p>
 
-<p align="center">
-  favorite game:
-  <a href="https://www.minecraft.net/ru-ru">Minecraft</a>
-</p>
 
 <p align="center">
   <img src="https://github.com/Xlebavich/xlebavich/blob/main/minecraft.jpg?raw=true" width="40%">
