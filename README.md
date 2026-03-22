@@ -9,7 +9,7 @@
 
   <!-- Icons -->
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
+    <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/1b2e1414-36cc-4c6d-b72d-505a398391de" />
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
