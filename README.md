@@ -8,7 +8,7 @@
   i am 15 years old and i program for fun.<br><br>
 
   <!-- Icons -->
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3schools.com/rust/" target="_blank" rel="noreferrer">
     <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/1b2e1414-36cc-4c6d-b72d-505a398391de" />
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
