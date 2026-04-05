@@ -4,8 +4,7 @@
 </h1>
 
 <p align="center">
-  <b>A 15-year-old developer programming for fun and building cool projects.</b><br>
-  <i>Mainly focused on Rust, Python, and Web Development.</i>
+  <b>A 15-year-old developer. Programming for fun and building cool projects.</b><br>
 </p>
 
 <p align="center">
