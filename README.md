@@ -4,30 +4,18 @@
 </h1>
 
 <p align="center">
-  <b>A 15-year-old developer. Programming for fun and building cool projects.</b><br>
+  <b>A 15-year-old developer. Programming for fun and building cool projects.</b>
 </p>
 
 <p align="center">
-  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="45" height="45" alt="Rust" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,py,js,html,css" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Popus_79&show_icons=true&theme=radical&hide_border=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Popus_79&layout=compact&theme=radical&hide_border=true" width="38%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Popus_79&show_icons=true&theme=radical&hide_border=true" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Popus_79&layout=compact&theme=radical&hide_border=true" height="150">
 </p>
 
 <p align="center">
@@ -54,8 +42,8 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/Xlebavich/xlebavich/blob/main/cat1.gif" height="80">
-  <img src="https://github.com/Xlebavich/xlebavich/blob/main/cat2.gif" height="80">
-  <img src="https://github.com/Xlebavich/xlebavich/blob/main/mine.gif" height="80">
-  <img src="https://github.com/Xlebavich/xlebavich/blob/main/sp.gif" height="80">
+  <img src="https://github.com/Xlebavich/xlebavich/blob/main/cat1.gif?raw=true" height="80">
+  <img src="https://github.com/Xlebavich/xlebavich/blob/main/cat2.gif?raw=true" height="80">
+  <img src="https://github.com/Xlebavich/xlebavich/blob/main/mine.gif?raw=true" height="80">
+  <img src="https://github.com/Xlebavich/xlebavich/blob/main/sp.gif?raw=true" height="80">
 </p>
