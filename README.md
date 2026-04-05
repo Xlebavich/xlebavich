@@ -14,11 +14,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Popus_79&show_icons=true&theme=radical&hide_border=true" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Popus_79&layout=compact&theme=radical&hide_border=true" height="150">
-</p>
-
-<p align="center">
   <img src="https://github.com/Xlebavich/xlebavich/blob/main/minecraft.jpg?raw=true" width="70%" style="border-radius: 10px;">
 </p>
 
