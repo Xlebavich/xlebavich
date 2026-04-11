@@ -26,6 +26,7 @@
 
 | Platform | Link | Username |
 | :--- | :--- | :--- |
+| **Guns.lol** | <a href="https://guns.lol/xlebavich"><img src="https://img.shields.io/badge/Guns.lol-000000?style=for-the-badge&logo=target&logoColor=white"></a> | xlebavich |
 | **Modrinth** | <a href="https://modrinth.com/user/Popus_79"><img src="https://img.shields.io/badge/Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white"></a> | Popus_79 |
 | **Discord** | <a href="https://discord.com/users/0"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a> | popovich0261 |
 | **Steam** | <a href="https://steamcommunity.com/id/xlebavich/"><img src="https://img.shields.io/badge/Steam-1b2838?style=for-the-badge&logo=steam&logoColor=white"></a> | xlebavich |
